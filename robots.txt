@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://enckwill.github.io/enckwill/sitemap.xml
